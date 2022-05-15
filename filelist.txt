@@ -1,0 +1,4 @@
+file 'E:\Music\One Last Time.mp3'
+file 'E:\Music\Lover.mp3'
+file 'E:\Music\One Last Time.mp3'
+file 'E:\Music\Lover.mp3'
