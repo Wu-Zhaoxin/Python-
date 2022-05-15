@@ -10,4 +10,7 @@
 from selenium.webdriver import Chrome
 
 # 1. 创建浏览器对象
-web = Chrome
+web = Chrome()
+# 2. 打开一个网址
+web.get("https://www.bilibili.com/video/BV1ZT4y1d7JM?p=84&spm_id_from=pageDriver")
+print(web.title)
